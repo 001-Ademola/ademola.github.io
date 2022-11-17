@@ -45,8 +45,6 @@ a:hover{
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
-    min-width: 250px;
-    max-width: 1920px;
 }
 .middle-container{
 margin: 100px 0;
