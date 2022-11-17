@@ -3,6 +3,8 @@ body{
 border: 0px;
 text-align: center;
 font-family: 'Merriweather', serif;
+min-width: 480px;
+max-width: 1920px;
 }
 h1{
     color: #66BFBF;
